@@ -1,2 +1,2 @@
 # StanfordCoreNLP_Dockerfile
-## For chinese model version
+For chinese model version
